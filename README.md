@@ -10,7 +10,7 @@ Python 3.7+
 
 pip install fastapi
 
-pip install "uvicorn[standard]"
+pip install "uvicorn"
 
 ## Start the server
 ### Run this command:
